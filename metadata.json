@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Festival Sales Prediction & AI Forecast Hub",
+  "description": "Sales prediction, inventory optimization, stock-out risk analysis, and Generative AI forecasting for Amazon festive sales across Diwali, Dussehra, Holi, Eid, Pongal, and Christmas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
